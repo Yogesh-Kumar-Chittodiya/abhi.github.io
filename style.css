@@ -1,0 +1,26 @@
+*{
+    /* border: 2px solid black; */
+    /* margin: auto; */
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.container{
+    display: flex;
+    background-color: aqua;
+}
+
+.vid{
+    background-color:blue;
+    margin: 0.1vw;
+    height: 85vh;
+    width: 50vw;
+}
